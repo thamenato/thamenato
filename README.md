@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**thamenato/thamenato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I'm a DevOps Engineer at [InsightM](https://www.insightm.com/)
 
-Here are some ideas to get you started:
+🐧Linux user, using NixOS, previously Arch and Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m learning `nix` and `golang`
+- 🏠 Spending some time with my [homelab](https://github.com/thamenato/homelab) as a hobby/experimentation
+- 🧠 Some tools I work with / have worked with: 
+  - 🌩️ `aws`, `pnap` (bare-metal servers), `gcp`, `digital-ocean` and `linode`
+  - 🖥️ `python`, `golang`, `nix`, `bash`
+  - 🧰 `terraform`, `nix`, `ansible`, `docker`
+  - ⚙️ `github-actions`, `circleci`, `jenkins`
+
+---
+
+[![thamenato's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamenato)](https://github.com/thamenato/github-readme-stats)

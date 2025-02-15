@@ -1,11 +1,13 @@
 ### Hello there 👋
 
-Currently I'm a DevOps Engineer at [InsightM](https://www.insightm.com/)
+I'm a Software Engineer with strong experience in DevOps!
+Big nerd about infrastructure, devx and terminal productivity 🤓.
 
-🐧Linux user, using NixOS, previously Arch and Ubuntu
+🐧Linux user, currently using NixOS! Used Arch and 🐛buntu before.
 
 - 🌱 I’m learning `nix` and `golang`
-- 🏠 Spending some time with my [homelab](https://github.com/thamenato/homelab) as a hobby/experimentation
+- 📁 Here's my [dotfiles](https://github.com/cthyllaxy/homelab) and my [NixOS Hosts](https://github.com/cthyllaxy/nixos-hosts)
+- 🏠 Spending some time with my [homelab](https://github.com/cthyllaxy/homelab) as a hobby/experimentation
 - 🧠 Some tools I work with / have worked with: 
   - 🌩️ `aws`, `pnap` (bare-metal servers), `gcp`, `digital-ocean` and `linode`
   - 🖥️ `python`, `golang`, `nix`, `bash`
